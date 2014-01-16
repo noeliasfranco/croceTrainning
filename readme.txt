@@ -3,4 +3,4 @@ Crear una app que muestre un listado de usuarios:
 * crear una colección en mongo que se llame "users" con los siguientes campos: name, email, _id
 * agregar 3 o 4 users a la colección
 * crear una página que muestre el listado de usuarios en una tabla usando bootstrap
-* para recuperar los datos de mongo utilizar el módule "mongoose"
+* para recuperar los datos de mongo utilizar el módule "mongoose"  
